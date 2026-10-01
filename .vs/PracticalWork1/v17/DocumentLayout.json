@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet-labs-koval\\01-csharp-basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A36C014D-64B4-4D58-B2A0-4D3CCEB6D420}|PracticalWork1\\PracticalWork1.csproj|c:\\dotnet-labs-koval\\01-csharp-basics\\practicalwork1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36C014D-64B4-4D58-B2A0-4D3CCEB6D420}|PracticalWork1\\PracticalWork1.csproj|solutionrelative:practicalwork1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet-labs-koval\\01-csharp-basics\\PracticalWork1\\Program.cs",
+              "RelativeDocumentMoniker": "PracticalWork1\\Program.cs",
+              "ToolTip": "C:\\dotnet-labs-koval\\01-csharp-basics\\PracticalWork1\\Program.cs",
+              "RelativeToolTip": "PracticalWork1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:18:23.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
